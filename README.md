@@ -1,8 +1,8 @@
 # To run frontend
-# npm install  
-# npm start
+<p>npm install</p>  
+<p>npm start</p>
 
 # To run backend
-# npm install mongoose cors express 
-# npm install nodemon 
-# nodemon index.js 
+<p>npm install mongoose cors express </p>
+<p>npm install nodemon</p> 
+<p>nodemon index.js </p>
